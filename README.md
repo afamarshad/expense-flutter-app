@@ -1,6 +1,6 @@
 # expense_flutter_app
 
-A new Flutter application.
+A Flutter application in which user can a new category or expense, can view categories and expense and can update the category.
 
 ## Getting Started
 
